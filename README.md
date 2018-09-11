@@ -2,4 +2,4 @@
 
 [面向对象](mianxiangduixiang.php)
 
-[redis](redis.php)
+[redis](redis.md)
